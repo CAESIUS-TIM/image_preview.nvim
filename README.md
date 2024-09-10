@@ -85,7 +85,7 @@ Special thanks for @pysan3 for [point that](https://github.com/adelarsq/image_pr
    - [ ] [Alacrity](https://github.com/alacritty/alacritty). Waiting for [pull/4763](https://github.com/alacritty/alacritty/pull/4763)
 - [x] Environments:
    - [x] Windows
-      - [x] PowerShell - WezTerm
+      - [x] Pwsh - WezTerm
       - [ ] DOS
       - [ ] WSL
    - [x] Linux - WezTerm, Kitty
@@ -95,7 +95,7 @@ Special thanks for @pysan3 for [point that](https://github.com/adelarsq/image_pr
    - [x] [neo-tree.nvim)](https://github.com/nvim-neo-tree/neo-tree.nvim)
    - [x] [oil.nvim](https://github.com/stevearc/oil.nvim)
    - [ ] NerdTree
-- [x] Windows support. Depends on PowerShell
+- [x] Windows support. Depends on Pwsh
 - [x] macOS support
 - [x] Linux support
 - [x] bmp, png and jpg
